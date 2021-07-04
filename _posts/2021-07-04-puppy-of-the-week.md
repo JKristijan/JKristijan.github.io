@@ -26,6 +26,7 @@ If you're the parent of a human teenager (s) you'll have a fairly good idea of w
 - pushy/bossy behavior
 - the pursuit of independence
 - attempts to ignore house rules (or you)
+
 You get the picture! But it's not all hard work and worry.
 
 Your little pup is now a big pup, but he's still your best friend and he still needs you to take care of and guide him.
