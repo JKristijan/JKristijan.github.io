@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Puppy of the day
-subtitle: The brightest soul around
+subtitle: How to care for your puppy
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
