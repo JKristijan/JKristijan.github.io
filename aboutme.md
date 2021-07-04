@@ -4,7 +4,7 @@ title: About me
 subtitle: Why would you want to know anything about me? Are you stalking me?
 ---
 
-Hello stalker! My name is Kristijan Angjelkoski, but you can call me Kris. I have nothing interesting to tell you so I'll give you [something interesting] to listen to.
+Hello stalker! My name is Kristijan Angjelkoski, but you can call me Kris. I have nothing interesting to tell you so I'll give you [something interesting](https://music.youtube.com/playlist?list=PLx4gvrc7_Z2VhXnZraTJJF8P-yHL_FHr6&feature=share) to listen to.
 What else do you need?
 
 ### My story
