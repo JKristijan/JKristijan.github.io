@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why would you want to know anything about me? Are you stalking me?
 ---
 
 My name is Kristijan Angjelkoski. Currently a freshman at the Faculty of Computer Science and Engineering in Skopje.
