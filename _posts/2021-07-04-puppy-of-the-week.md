@@ -8,10 +8,30 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+**By the seventh month, your puppy is most definitely an adolescent... and he's a force to be reckoned with!**
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+**From now until he's a year old (or, if he's a large/giant breed, until he's 2 years or more) his growth slows down pretty significantly.**
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Big breeds have more growing and maturing to do than the smaller ones, but even they take their foot off the gas a bit.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+So, what does change during the second six months of your pup's life? Actually quite a lot!
+
+If you're the parent of a human teenager (s) you'll have a fairly good idea of what's to come.
+
+**If you haven't had that pleasure yet, here's a quick list of what to expect:**
+
+- challenging authority
+- testing limits
+- sexually motivated behavior
+- pushy/bossy behavior
+- the pursuit of independence
+- attempts to ignore house rules (or you)
+You get the picture! But it's not all hard work and worry.
+
+Your little pup is now a big pup, but he's still your best friend and he still needs you to take care of and guide him.
+
+If you've been diligent about training and socialization up until now you've already set the foundation for good adult behavior.
+
+**Like most teens, your pup will 'forget' a lot of what he's learned up to now, at least for a few months, but once he's safely past the worst of adolescence that sweet, well-behaved boy you used to know will return safe and sound.**
+
+So, let's take a closer look at the interesting, challenging and fun (yes, fun) months that make up your puppy's adolescence...
