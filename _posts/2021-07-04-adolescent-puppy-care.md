@@ -5,7 +5,7 @@ subtitle: Understanding Your Adolescent Puppy
 cover-img: /assets/img/post/adolescent-puppy-care/cover.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [puppy, training]
+tags: [puppy, care]
 ---
 
 **By the seventh month, your puppy is most definitely an adolescent... and he's a force to be reckoned with!**
