@@ -15,10 +15,6 @@ author: Kristijan Angjelkoski
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -42,19 +38,19 @@ social-network-links:
   email: "KristijanAngjelkoski@gmail.com"
   facebook: Kristijan Angjelkoski
   github: JKristijan
-#  twitter: work in progress
-#  patreon: work in progress
-#  youtube: work in progress
+  telephone: +38976403464
+#  twitter: yourname
+#  patreon: yourname
+#  youtube: yourname
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: yourname
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
