@@ -9,7 +9,7 @@ tags: [puppy, care]
 comments: true
 ---
 
-**By the seventh month, your puppy is most definitely an adolescent... and he's a force to be reckoned with!**
+**By the ASDFDGGSFHDGSGHFDGJFDHJFMGF seventh month, your puppy is most definitely an adolescent... and he's a force to be reckoned with!**
 
 **From now until he's a year old (or, if he's a large/giant breed, until he's 2 years or more) his growth slows down pretty significantly.**
 
