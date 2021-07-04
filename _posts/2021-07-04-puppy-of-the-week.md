@@ -5,7 +5,7 @@ subtitle: Understanding Your Adolescent Puppy
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [puppy, training]
 ---
 
 **By the seventh month, your puppy is most definitely an adolescent... and he's a force to be reckoned with!**
@@ -63,3 +63,5 @@ But not *all* puppies have got it sussed out yet. Some may still have 'accidents
 Small breeds tend to have more issues with this than the larger ones.
 
 Just be patient and calm. Before the end of this period your pup's elimination habits will be all sorted out, as long as you've followed the guidelines I've described and been consistent in your teaching.
+
+Credits: [Raising Rascal](https://www.raisingrascal.com)
