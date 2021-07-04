@@ -31,7 +31,7 @@ You get the picture! But it's not all hard work and worry.
 
 Your little pup is now a big pup, but he's still your best friend and he still needs you to take care of and guide him.
 
-![Puppy](/assets/img/post/adolescent-puppy-care/puppy-1.jpeg) {: .mx-auto.d-block :}
+![Puppy](../assets/img/post/adolescent-puppy-care/puppy-1.jpeg) {: .mx-auto.d-block :}
 
 If you've been diligent about training and socialization up until now you've already set the foundation for good adult behavior.
 
@@ -42,7 +42,7 @@ So, let's take a closer look at the interesting, challenging and fun (yes, fun) 
 ##Your Puppy's Development & Growth - Months 7 thru 12
 **There aren't really any scientific terms to describe the second six months of your little Rascal's life, 'adolescence' pretty much sums it up.**
 
-![Puppy](/assets/img/post/adolescent-puppy-care/puppy-2.jpeg) {: .mx-auto.d-block :}
+![Puppy](../assets/img/post/adolescent-puppy-care/puppy-2.jpeg) {: .mx-auto.d-block :}
 
 By the beginning of this developmental period **small to medium breed puppies will likely have reached their full height, and simply be gaining weight as they head towards physical maturity.**
 
@@ -62,7 +62,7 @@ Their attention span is longer and they can understand more complex commands, th
 
 **By the beginning of this stage most pups are very reliable about their house training and won't pee or poop indoors, or in their crate, when left alone (for reasonable lengths of time).**
 
-![Puppy](/assets/img/post/adolescent-puppy-care/puppy-3.jpeg) {: .mx-auto.d-block :}
+![Puppy](../assets/img/post/adolescent-puppy-care/puppy-3.jpeg) {: .mx-auto.d-block :}
 
 But not *all* puppies have got it sussed out yet. Some may still have 'accidents' (especially if you originally paper-trained them and now expect them to do their business outside).
 
