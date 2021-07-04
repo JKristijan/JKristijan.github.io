@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Kristijan Angjelkoski. Currently a freshman at the Faculty of Computer Science and Engineering in Skopje. 
+My name is Kristijan Angjelkoski. Currently a freshman at the Faculty of Computer Science and Engineering in Skopje.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
@@ -12,5 +12,6 @@ My name is Kristijan Angjelkoski. Currently a freshman at the Faculty of Compute
 What else do you need?
 
 ### My story
+There's nothing interesting to be said. I couldn't be more normal. Except for my *interesting* hair.
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
