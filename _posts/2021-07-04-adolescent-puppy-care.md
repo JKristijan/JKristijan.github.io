@@ -39,7 +39,7 @@ If you've been diligent about training and socialization up until now you've alr
 
 So, let's take a closer look at the interesting, challenging and fun (yes, fun) months that make up your puppy's adolescence...
 
-##Your Puppy's Development & Growth - Months 7 thru 12
+## Your Puppy's Development & Growth - Months 7 thru 12
 **There aren't really any scientific terms to describe the second six months of your little Rascal's life, 'adolescence' pretty much sums it up.**
 
 ![Puppy](../assets/img/post/adolescent-puppy-care/puppy-2.jpeg) {: .mx-auto.d-block :}
