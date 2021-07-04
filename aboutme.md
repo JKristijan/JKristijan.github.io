@@ -4,14 +4,12 @@ title: About me
 subtitle: Why would you want to know anything about me? Are you stalking me?
 ---
 
-My name is Kristijan Angjelkoski. Currently a freshman at the Faculty of Computer Science and Engineering in Skopje.
+Hello! My name is Kristijan Angjelkoski, but you can call me Kris. I have nothing interesting to tell you so I'll give you something interesting to listen to:
 
-- I rock a great mustache
+- [Duality](https://music.youtube.com/watch?v=6fVE8kSM43I&feature=share)
 - I'm extremely loyal to my family
 
 What else do you need?
 
 ### My story
 There's nothing interesting to be said. I couldn't be more normal. Except for my *interesting* hair.
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
