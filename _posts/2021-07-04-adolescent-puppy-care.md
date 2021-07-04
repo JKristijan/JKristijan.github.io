@@ -31,7 +31,7 @@ You get the picture! But it's not all hard work and worry.
 
 Your little pup is now a big pup, but he's still your best friend and he still needs you to take care of and guide him.
 
-![Puppy](https://www.flickr.com/photos/40052928@N03/3684068448/in/photolist-6BxPcw-6mEqFe-4Zbovv-drysMN-dryneZ-85BNLN-7FVewp-yLvE2w-67MKQn-gHag9i-a2QMTK-dWujG-4qTsdx-4RZ9zj-4qTsbg-6bM3sR-SdJ5Bf-9pWjfY-4jzamv-YoATam-bmzqnh-8SUChJ-711mKT-7CM1tV-2UBiqD-2UBgP4-2cXVXyb-dryibT-cqDDzG-7nT5jU-4qXyUj-drywHm-drynh8-JTCdtq-4qTtEX-85BN6U-drytQN-85BNdU-aWiBcX-ch5By7-GZ6cFw-9z58i1-zDEPx-8A827J-79y7JB-fmNG3w-79BYQw-aVZ9zx-BmVYuk-cK2ECo) {: .mx-auto.d-block :}
+![Puppy](https://www.purina.co.uk/sites/default/files/2020-12/Puppy-Adolescence-How-to-Get-Through-the-Teenage-YearsTEASER.jpg){: .mx-auto.d-block :}
 
 If you've been diligent about training and socialization up until now you've already set the foundation for good adult behavior.
 
@@ -42,7 +42,7 @@ So, let's take a closer look at the interesting, challenging and fun (yes, fun) 
 ## Your Puppy's Development & Growth - Months 7 thru 12
 **There aren't really any scientific terms to describe the second six months of your little Rascal's life, 'adolescence' pretty much sums it up.**
 
-![Puppy](https://www.flickr.com/photos/135738185@N06/22482191888/in/photolist-AfF7o5-65MWQU-bph23N-4MBwFw-drymAT-drymfD-5mkeRr-7pKY6g-aAvTQV-4MqGxT-715kQU-5em84j-22MQJ1a-dryiNa-gHa3cW-e1a14Q-6BxPcw-6mEqFe-4Zbovv-drysMN-dryneZ-85BNLN-7FVewp-yLvE2w-67MKQn-gHag9i-a2QMTK-dWujG-4qTsdx-4RZ9zj-4qTsbg-6bM3sR-SdJ5Bf-9pWjfY-4jzamv-YoATam-bmzqnh-8SUChJ-711mKT-7CM1tV-2UBiqD-2UBgP4-2cXVXyb-dryibT-cqDDzG-7nT5jU-4qXyUj-drywHm-drynh8-JTCdtq){: .mx-auto.d-block :}
+![Puppy](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F05%2F19%2FPet-Puberty.jpg){: .mx-auto.d-block :}
 
 By the beginning of this developmental period **small to medium breed puppies will likely have reached their full height, and simply be gaining weight as they head towards physical maturity.**
 
@@ -62,7 +62,7 @@ Their attention span is longer and they can understand more complex commands, th
 
 **By the beginning of this stage most pups are very reliable about their house training and won't pee or poop indoors, or in their crate, when left alone (for reasonable lengths of time).**
 
-![Puppy](https://www.flickr.com/photos/31054966@N07/3336014356/in/photolist-65MWQU-bph23N-4MBwFw-drymAT-drymfD-5mkeRr-7pKY6g-aAvTQV-4MqGxT-715kQU-5em84j-22MQJ1a-dryiNa-gHa3cW-e1a14Q-6BxPcw-6mEqFe-4Zbovv-drysMN-dryneZ-85BNLN-7FVewp-yLvE2w-67MKQn-gHag9i-a2QMTK-dWujG-4qTsdx-4RZ9zj-4qTsbg-6bM3sR-SdJ5Bf-9pWjfY-4jzamv-YoATam-bmzqnh-8SUChJ-711mKT-7CM1tV-2UBiqD-2UBgP4-2cXVXyb-dryibT-cqDDzG-7nT5jU-4qXyUj-drywHm-drynh8-JTCdtq-4qTtEX) {: .mx-auto.d-block :}
+![Puppy](https://cdn11.bigcommerce.com/s-zvsngup/product_images/uploaded_images/teenage-adolescent-dogs-behavior.jpg){: .mx-auto.d-block :}
 
 But not *all* puppies have got it sussed out yet. Some may still have 'accidents' (especially if you originally paper-trained them and now expect them to do their business outside).
 
