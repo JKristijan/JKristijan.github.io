@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Adolescent Puppy Care
-subtitle: Understanding Your Adolescent Puppy
+title: Fiverr
+subtitle: Making the MOOONEI
 cover-img: /assets/img/post/adolescent-puppy-care/cover.jpg
 thumbnail-img: /assets/img/post/adolescent-puppy-care/thumb.jpg
 share-img: /assets/img/path.jpg
