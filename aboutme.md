@@ -4,7 +4,7 @@ title: About me
 subtitle: Here's a not so short text containing the highlights of my life
 ---
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1531885563571158" crossorigin="anonymous"></script>
 
 My name is Kristijan Angjelkoski and I am a professional QA Game Tester and student at the [Faculty of Computer Science and Engineering](https://www.finki.ukim.mk/en) of Skopje.
 

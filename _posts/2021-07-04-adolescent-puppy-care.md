@@ -8,6 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [puppy, care]
 comments: true
 ---
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1531885563571158" crossorigin="anonymous"></script>
 
 **By the seventh month, your puppy is most definitely an adolescent... and he's a force to be reckoned with!**
 
